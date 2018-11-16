@@ -7,6 +7,29 @@
   height: 40vmin;
 }
 
+.hide {
+  display:none;
+}
+.show {
+  display:block;
+}
+
+form div {
+  margin:5px;
+  padding:5px;
+}
+
+.message-textarea {
+  width:200px;
+  height:150px;
+}
+
+.App section {
+  border:1px solid;
+  margin:10px 0px;
+  padding:10px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
